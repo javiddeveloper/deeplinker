@@ -12,6 +12,9 @@ This is a simple Android app built using Jetpack Compose and Hilt to test deep l
 ## Setup Instructions
 To run this app, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+
+## 🖼️ Screenshot
+<p align="center"> <img src="img.png" alt="DeepLinker Screenshot" width="400"/> </p>
+
+
+
