@@ -9,10 +9,6 @@ This is a simple Android app built using Jetpack Compose and Hilt to test deep l
 - **Manage clips:** Displays a list of saved clips below each input field and allows users to replace the current input with a saved clip or delete it.
 - **Simple UI:** Easy-to-use interface with a button to save all clips.
 
-## Setup Instructions
-To run this app, follow these steps:
-
-
 ## 🖼️ Screenshot
 <p align="center"> <img src="img.png" alt="DeepLinker Screenshot" width="400"/> </p>
 
